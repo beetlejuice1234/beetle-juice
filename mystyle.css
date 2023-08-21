@@ -1,0 +1,253 @@
+#header {
+    width:1024px;
+    height:150px;
+    border:2px Solid#FF8654;
+    margin:0 Auto;
+    background-color:#FB4FFF;
+
+}
+
+#navebar {
+    width:1024px;
+    height:150px;
+    border:2px Solid#E8634D;
+    margin:0 Auto;
+    margin-top: 10px;
+    background-color:#B948E8;
+
+    
+}
+
+
+#slider {
+    width:1024px;
+    height:300px;
+    border:2px Solid#FF6060;
+    margin:0 Auto;
+    margin-top: 10px;
+    background-color:#A25CFF;
+    background-image:url(viking2.jpg) ;
+}
+#main {
+    width:1024px;
+    height:700px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 10px;
+    background-color:#6248E8;
+}
+
+#footer {
+    width:1024px;
+    height:150px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 10px;
+    background-color:#4F62FF;
+
+}
+
+#button {
+    width:190px;
+    height:80px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#4F62FF;
+    float:left;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #9CF8D0;
+    text-align: center;
+    padding-top: 25px;
+    -webkit-border-radius: 50px;
+     -webkit-border-top-right-radius: 20px;
+      -webkit-border-bottom-left-radius: 20px;
+     -moz-border-radius: 50px;
+       -moz-border-radius-topright: 20px;
+      -moz-border-radius-bottomleft: 20px;
+       border-radius: 50px;
+    border-top-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6bba70+0,6bba70+100;Green+Flat+%234 */
+background: rgb(107,186,112); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(107,186,112,1) 0%, rgba(107,186,112,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(107,186,112,1) 0%,rgba(107,186,112,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(107,186,112,1) 0%,rgba(107,186,112,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6bba70', endColorstr='#6bba70',GradientType=0 ); /* IE6-9 */
+
+}
+#button:hover {
+    width:190px;
+    height:80px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#FF1713;
+    float:left;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FF05F1;
+    text-align: center;
+    padding-top: 25px;
+    -webkit-border-radius: 50px;
+     -webkit-border-top-right-radius: 20px;
+      -webkit-border-bottom-left-radius: 20px;
+     -moz-border-radius: 50px;
+       -moz-border-radius-topright: 20px;
+      -moz-border-radius-bottomleft: 20px;
+       border-radius: 50px;
+    border-top-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6bba70+0,6bba70+100;Green+Flat+%234 */
+background: rgb(107,186,112); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(107,186,112,1) 0%, rgba(107,186,112,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(107,186,112,1) 0%,rgba(107,186,112,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(107,186,112,1) 0%,rgba(107,186,112,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6bba70', endColorstr='#6bba70',GradientType=0 ); /* IE6-9 */
+
+}
+   
+#aside {
+    width:251px;
+    height:280px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#1c010139;
+    float:left;
+    font-family: Arial;
+    font-size: 10px;
+    color: #9CF8D0;
+    text-align: justify;
+    line-height: 12px;
+    padding-top: 20px;
+    
+
+}
+
+#aside1 {
+    width:251px;
+    height:280px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#1c010139;
+    float:left;
+    font-family: Arial;
+    font-size: 10px;
+    color: #9CF8D0;
+    text-align: justify;
+    line-height: 12px;
+    padding-top: 20px;
+
+}
+#submission {
+    width:735px;
+    height:300px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#ff5e4f;
+    float:left;
+    background-image:url(norway3.jpg) ;
+
+}
+#submission1 {
+    width:735px;
+    height:300px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#ff5e4f;
+    float:left;
+    background-image:url(vikings4.jpg) ;
+
+}
+
+#side {
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRShQy3aQYgoolJKd10r7GLwoeJHwxsO2C_EyZskqH&s);
+}
+
+#asideabout {
+    width:251px;
+    height:600px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#1c010139;
+    float:left;
+    font-family: Arial;
+    font-size: 10px;
+    color: #9CF8D0;
+    text-align: justify;
+    line-height: 12px;
+    padding-top: 20px;
+
+}
+.submissionabout {
+    width:735px;
+    height:620px;
+    border:2px Solid;
+    margin:0 Auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:#ff5e4f;
+    float:left;
+    background-image:url(ragnar1.jpg) ;
+    display:flex;
+}
+
+.box{
+    width:200px;
+    height:100px;
+    border:2px solid;    
+}
+#box{
+    height:250px;
+    width:250px;
+    font-size:250px;
+    text-align:center;
+    margin-top:20px;
+    background-color:#ff5e4f;
+    border:2px solid;
+    animation:mycolor;
+    animation-play-state:running;
+    animation-iteration-count:infinite;
+    animation-delay:0s;
+    animation-timing-function:ease-in-out;
+    animation-duration:5s;
+    
+    
+}
+@keyframes myslide{
+    from{margin-left:100%;}
+    to{margin-left:0%;}
+}
+@keyframes myrotate{
+    100%{transform:rotatez(360deg);}
+}
+@keyframes myopacity{
+    100%{opacity:0;}
+}
+@keyframes myscale{
+    100%{transform:scale(0.10,0.10);}
+}
+@keyframes mycolor{
+    20%{background-color:darkgoldenrod;}
+    40%{background-color: aqua;}
+    60%{background-color: #FF1713;}
+    80%{background-color: chocolate;}
+    100%{background-color: crimson;}
+    100%{opacity:0;}
+    100%{transform:rotatez(360deg);}
+}
